@@ -21,7 +21,7 @@ This repository contains a simple example of building an agent using LangGraph c
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/KansSoftware/langlraph-components-simple-example
    cd LangGraph\ Components\ -\ Simple\ Example
    ```
 
